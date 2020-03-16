@@ -24,6 +24,11 @@ body {
   width: 350px;
 }
 
+.container_history {
+  margin: 50px auto;
+  width: 450px;
+}
+
 h1 {
   letter-spacing: 1px;
   margin: 0;
@@ -41,13 +46,15 @@ h4 {
 }
 
 .inc-exp-container {
+  border-radius: 5px;
   background-color: #fff;
-  box-shadow: var(--box-shadow);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
 }
+
 
 .inc-exp-container > div {
   flex: 1;
@@ -80,7 +87,7 @@ label {
 input[type='text'],
 input[type='number'] {
   border: 1px solid #dedede;
-  border-radius: 2px;
+  border-radius: 5px;
   display: block;
   font-size: 16px;
   padding: 10px;
@@ -89,10 +96,11 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-image: linear-gradient(35deg,#1E90FF, #9790F2);
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
+  border-radius: 5px;
   display: block;
   font-size: 16px;
   margin: 10px 0 30px;
@@ -148,4 +156,40 @@ input[type='number'] {
 
 .list li:hover .delete-btn {
   opacity: 1;
+}
+
+
+/* Balance */
+
+.balance {
+
+  background-image: linear-gradient(35deg,#1E90FF, #9790F2);
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	display: flex;
+  max-width: 100%;
+  color: #fff;
+	padding: 30px;
+}
+
+.balance h4 {
+	opacity: 0.6;
+	margin: 0;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.balance h1 {
+	letter-spacing: 1px;
+	margin: 10px 0;
+}
+
+/* Form */
+
+.form_card {
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  margin: 10px 0;
 }
