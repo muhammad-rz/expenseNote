@@ -1,7 +1,3 @@
-## Screenshot
-
-Inline-style: 
-![alt text](https://github.com/muhammad-rz/fullstack-expense-tracker/blob/master/images/screenshot.png)
 
 # Full Stack Expense Tracker (MERN)
 
@@ -9,6 +5,9 @@ Inline-style:
 - Express JS
 - React JS
 - Node JS
+
+## Screenshot
+![alt text](https://github.com/muhammad-rz/fullstack-expense-tracker/blob/master/images/screenshot.png)
 
 
 ## Usage
