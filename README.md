@@ -5,16 +5,16 @@ Inline-style:
 
 # Full Stack Expense Tracker (MERN)
 
-> MongoDB (Atlas)
-> Express JS
-> React JS
-> Node JS
+- MongoDB (Atlas)
+- Express JS
+- React JS
+- Node JS
 
 
 ## Usage
 
 ```
-Change content of config.env
+Change content of config.env in /config/config.env
 ```
 
 ```
@@ -36,5 +36,7 @@ Change content of config.env
  npm run build
  
  # Prod
+ change env in config.env to NODE_ENV=production
  npm start
+ access at http://localhost:5000
 ```
