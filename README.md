@@ -31,5 +31,6 @@ Change content of config.env in /config/config.env
  npm run build
  
  # Prod
+ change env in config.env to NODE_ENV=production
  npm start
 ```
