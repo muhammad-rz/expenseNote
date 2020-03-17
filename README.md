@@ -1,3 +1,8 @@
+## Screenshot
+
+Inline-style: 
+![alt text](https://github.com/muhammad-rz/fullstack-expense-tracker/images/screenshot.png)
+
 # Full Stack Expense Tracker (MERN)
 
 > MongoDB (Atlas)
