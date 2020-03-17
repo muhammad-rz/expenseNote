@@ -9,7 +9,7 @@
 ## Usage
 
 ```
-Change content of config.env
+Change content of config.env in /config/config.env
 ```
 
 ```
