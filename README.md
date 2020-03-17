@@ -1,9 +1,9 @@
 # Full Stack Expense Tracker (MERN)
 
-> MongoDB (Atlas)
-> Express JS
-> React JS
-> Node JS
+- MongoDB (Atlas)
+- Express JS
+- React JS
+- Node JS
 
 
 ## Usage
