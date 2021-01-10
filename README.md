@@ -33,9 +33,5 @@ Change content of config.env in /config/config.env
  # Build client
  cd client
  npm run build
- 
- # Prod
- change env in config.env to NODE_ENV=production
- npm start
- access at http://localhost:5000
+
 ```
