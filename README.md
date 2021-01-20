@@ -1,14 +1,10 @@
 
-# Full Stack Expense Tracker (MERN)
+# Expense Note app (MERN)
 
 - MongoDB (Atlas)
 - Express JS
 - React JS
 - Node JS
-
-## Screenshot
-![alt text](https://github.com/muhammad-rz/fullstack-expense-tracker/blob/master/images/screenshot.png)
-
 
 ## Usage
 
